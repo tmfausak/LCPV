@@ -1,16 +1,15 @@
 //
 //  ContentView.swift
-//  LCPVax
+//  Locations
 //
-//  Created by Theodore Fausak on 7/29/21.
+//  Created by Theodore Fausak on 7/30/21.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        RegionList()
     }
 }
 
